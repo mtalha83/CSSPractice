@@ -1,0 +1,24 @@
+#box {
+    background-color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger ;
+}
+
+.heading {
+    color: red;
+    text-align: center;
+    text-decoration: line-through;
+}
+
+button {
+    background-color: green;
+    color: aliceblue;
+}
+
+p{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}

@@ -2,6 +2,7 @@
     background-color: blue;
     font-family: 'Times New Roman', Times, serif;
     font-size: larger ;
+    position: relative; top: 40px;
 }
 
 .heading {
@@ -21,4 +22,8 @@ p{
 
 a{
     text-decoration: none;
+}
+
+.talha{
+    position: absolute; top: 600px;
 }
